@@ -1,4 +1,4 @@
-- 📫 Mi LinkedIn es: https://www.linkedin.com/in/valentin-gomez-electronics/
+ [linkedin.com/in/valentin-gomez-electronics/](https://www.linkedin.com/in/valentingomezespeche/)
 
 <!---
 valenting182/valenting182 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
